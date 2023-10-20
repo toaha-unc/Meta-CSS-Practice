@@ -8,3 +8,22 @@ p{
 #header1 {
     color: purple;
 }
+p.second {
+    color: gold;
+}
+
+.second {
+    color: red;
+}
+
+#whole{
+    color: red;
+}
+
+#whole h1 {
+    background-color: chartreuse;
+}
+
+#whole > a {
+    background-color: coral;
+}
