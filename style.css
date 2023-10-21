@@ -30,14 +30,22 @@ p.second {
 
 .third {
     color: rgb(255, 0, 0);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 60px;
+    text-decoration-line: overline;
+    text-decoration-color: blue;
+    text-decoration-style: wavy;
 }
 
 .fourth {
     color: rgba(0, 255, 0, 0.7);
+    text-transform: uppercase;
 }
 
 .fifth{
     color: hsl(0, 100%, 50%);
+    text-decoration-line: underline;
+    text-decoration-thickness: 10px;
 }
 
 .sixth{
