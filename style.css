@@ -27,3 +27,19 @@ p.second {
 #whole > a {
     background-color: coral;
 }
+
+.third {
+    color: rgb(255, 0, 0);
+}
+
+.fourth {
+    color: rgba(0, 255, 0, 0.7);
+}
+
+.fifth{
+    color: hsl(0, 100%, 50%);
+}
+
+.sixth{
+    color: #FF0000;
+}
