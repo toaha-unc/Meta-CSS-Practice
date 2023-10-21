@@ -66,3 +66,7 @@ span {
     font-size: 30px;
     height: 1px;
 }
+
+.child {
+    float: right;
+  }
