@@ -70,3 +70,12 @@ span {
 .child {
     float: right;
   }
+
+  .common {
+    color: aqua;
+    font-weight: bold;
+    letter-spacing: 15px;
+    text-align: right;
+    line-height: 5;
+    text-decoration: line-through;
+  }
